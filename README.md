@@ -71,6 +71,16 @@ Create a html file like this:
 ```
 
 As you can see you can add more functions to the console.
+
+Of course if you want you can remove the 
+
+```link
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Miskoking800/SharkConsole@main/style.css"> 
+
+```
+
+And style as you want
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
